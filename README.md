@@ -26,6 +26,9 @@ A high-performance technical prototype demonstrating real-time telemetry ingesti
 ## 🔍 Overview
 FleetGenAI is designed to handle high-frequency vehicle telemetry. The platform ingests data through a Node.js gateway, processes it via a Python-based AI worker that utilizes Groq (Llama 3) for real-time diagnostics, and visualizes the health of the fleet on a modern React dashboard.
 
+## 📸 Preview
+![Platform Demo](screenshot/Recording%202026-04-30%20164527%20(1).gif)
+
 ## ✨ Key Features
 - **Real-time Ingestion**: High-throughput telemetry simulation and ingestion via Redis Streams.
 - **AI-Driven Diagnostics**: Automated anomaly detection coupled with GenAI-assisted technical insights using Llama 3.
