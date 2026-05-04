@@ -29,6 +29,9 @@ FleetGenAI is designed to handle high-frequency vehicle telemetry. The platform 
 ## 📸 Preview
 ![Platform Demo](screenshot/Recording%202026-04-30%20164527%20(1).gif)
 
+## 🏗 Architecture
+![Architecture Diagram](screenshot/ArchitectureDiagram.png)
+
 ## ✨ Key Features
 - **Real-time Ingestion**: High-throughput telemetry simulation and ingestion via Redis Streams.
 - **AI-Driven Diagnostics**: Automated anomaly detection coupled with GenAI-assisted technical insights using Llama 3.
